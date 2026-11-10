@@ -545,7 +545,7 @@ legend + * {
 }
 
 ::-webkit-inner-spin-button {
-  height: auto;
+  height: 130px;
 }
 
 [type=search] {
